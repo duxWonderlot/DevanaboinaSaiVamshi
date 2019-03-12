@@ -6,7 +6,7 @@ You stumble upon the portfolio of Devanaboina Sai Vamshi(GamePlay Programmer, Ga
 
 Currenly Working on my (**Rapid Prototype**)**[Major Project](https://youtu.be/oo1xqFDnayA)**, Which is an Semi-Open World FPS Action RPG made in Unity, I have also
 
-### Build a tools for designers to easy create vertical cities for the game
+### Build tools for designers to easy create vertical cities for the game
 <img src="img/Screenshot_259.png">
 
 ### Build an Quest System Tool for designers for Interactive StoryTelling 
