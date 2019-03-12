@@ -12,7 +12,7 @@ Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 
 Made More Than 3 Unpublished Mobile Games 
 
-**here are Games That was published Till now for free on Itch.io
+## **here are Games That was published Till now for free on Itch.io
 [Checkout](https://bustingjam.itch.io/)**
 
 I have also participated in Number of Game Jams like 
