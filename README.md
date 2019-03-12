@@ -16,20 +16,20 @@ Made More Than 3 Unpublished Mobile Games
 [Checkout](https://bustingjam.itch.io/)**
 
 I have also participated in Number of Game Jams like 
-**IGDC**
-**Nasscom**
-Unreal Jam
-**Brackeys Game Jam and many more**
-**Also worked on AR boardgame made in Unity**
+-**IGDC**
+-**Nasscom**
+-Unreal Jam
+-**Brackeys Game Jam and many more**
+-**Also worked on AR boardgame made in Unity**
 ## Worked on TeamProjects
 
 I have worked on Games like:-
 
-**De-light(Gameplay Programmer)**
-Getout(as asset modeller)
-**Farm In Harm(Gameplay Programmer)**
-**Brain's Life(GamePlay Programmer)**
-Refugee(Junior Programmer , Asset Modeller)**
+-**De-light(Gameplay Programmer)**
+-Getout(as asset modeller)
+-**Farm In Harm(Gameplay Programmer)**
+-**Brain's Life(GamePlay Programmer)**
+-Refugee(Junior Programmer , Asset Modeller)**
 
 
 ## Some Thing Interesting
