@@ -89,6 +89,6 @@ this is small chuck of code that was used in Spectrum Game
  
 ```
  
-# CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
+### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
  
