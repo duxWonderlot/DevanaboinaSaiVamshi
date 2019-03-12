@@ -33,7 +33,7 @@ Brain's Life(GamePlay Programmer)
 Refugee(Junior Programmer , Asset Modeller)
 
 
-## SomeThingInteresting
+## Some Thing Interesting
 ```markdown
 Code that i am Proud of written in java for the game Spectrum which was inspired from a game called "Hue"
  private Body createbody1(float x , float y , float width, float height, boolean isStatic , World world){
