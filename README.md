@@ -1,7 +1,7 @@
 # Hi there!
 
 You stumble upon the portfolio of Devanaboina Sai Vamshi(GamePlay Programmer, Game Collector, game technology enthusiast)
- 
+
 ## Major Project
 
 Currenly Working on my [Major Project](https://youtu.be/oo1xqFDnayA), Which is an Semi-Open World FPS Action RPG made in Unity, I have also worked on Other Game Engines like 
@@ -144,6 +144,9 @@ for Optimization in the Physics Library
  Obstruc1.setActive(false);
  Obstrcu2.setActive(false);
  ```
+ 
+### Contact
+you can contact me from [LinkedIn](https://in.linkedin.com/in/devanaboina-sai-vamshi-218300156)
  
 ### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
