@@ -36,7 +36,7 @@ I have worked on Games like:-
 
 -**Farm In Harm(Gameplay Programmer)**
 
-[-**Brain's Life(GamePlay Programmer)**] (https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
+[-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
 
