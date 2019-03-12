@@ -1,18 +1,18 @@
-# Hi there!
+ # Hi there!
 
 You stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game Collector, game technology enthusiast)
  
-## Major Project
+ ## Major Project
 
 Currenly Working on my [Major Project](https://youtu.be/oo1xqFDnayA), Which is an Semi-Open World FPS Action RPG made in Unity, I have also worked on Other Game Engines like 
 Unreal,Game Maker,RPG Maker
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 
-## FunSide Projects
+ ## FunSide Projects
 
 Made More Than 3 Unpublished Mobile Games 
 
-## **here are Games That was published Till now for free on Itch.io
+ ## **here are Games That was published Till now for free on Itch.io
 [Checkout](https://bustingjam.itch.io/)**
 
 I have also participated in Number of Game Jams like 
@@ -26,7 +26,7 @@ I have also participated in Number of Game Jams like
 
 -**Also worked on AR boardgame made in Unity**
 
-## Worked on TeamProjects
+ ## Worked on TeamProjects
 
 I have worked on Games like:-
 
@@ -41,7 +41,7 @@ I have worked on Games like:-
 -Refugee(Junior Programmer , Asset Modeller)**
 
 
-## Some Thing Interesting
+ ## Some Thing Interesting
 ```markdown
 Code that i am Proud of written in java for the game Spectrum which was inspired from a game called "Hue"
  private Body createbody1(float x , float y , float width, float height, boolean isStatic , World world){
@@ -146,6 +146,6 @@ for Optimization in the Physics Library
  Obstrcu2.setActive(false);
  ```
  
-### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
+ ### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
  
