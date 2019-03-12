@@ -147,7 +147,7 @@ for Optimization in the Physics Library
  ```
  
 ### Resume 
-[CheckoutResume](DevanaboinaSaiVamshi/D Sai Vamshi resume pdf.pdf) 
+[CheckoutResume](https://github.com/duxWonderlot/DevanaboinaSaiVamshi/blob/master/D%20Sai%20Vamshi%20resume%20pdf.pdf) 
  
 ### Contact
 You can contact me from [LinkedIn](https://in.linkedin.com/in/devanaboina-sai-vamshi-218300156)
