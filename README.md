@@ -1,6 +1,6 @@
 # Hi there!
 
-you stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game Collector, game technology enthusiast)
+You stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game Collector, game technology enthusiast)
  
 ## Major Project
 
@@ -13,24 +13,23 @@ Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 Made More Than 3 Unpublished Mobile Games 
 
 **here are Games That was published Till now for free on Itch.io
-[Checkout](https://bustingjam.itch.io/)
+[Checkout](https://bustingjam.itch.io/)**
 
 I have also participated in Number of Game Jams like 
-**IGDC
-Nasscom
+**IGDC**
+**Nasscom**
 Unreal Jam
-Brackeys Game Jam and many more
-Also worked on AR boardgame made in Unity
-**
+**Brackeys Game Jam and many more**
+**Also worked on AR boardgame made in Unity**
 ## Worked on TeamProjects
 
 I have worked on Games like:-
 
-**De-light(Gameplay Programmer)
+**De-light(Gameplay Programmer)**
 Getout(as asset modeller)
-Farm In Harm(Gameply Programmer)
-Brain's Life(GamePlay Programmer)
-Refugee(Junior Programmer , Asset Modeller)
+**Farm In Harm(Gameplay Programmer)**
+**Brain's Life(GamePlay Programmer)**
+Refugee(Junior Programmer , Asset Modeller)**
 
 
 ## Some Thing Interesting
