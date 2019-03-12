@@ -1,6 +1,6 @@
  # Hi there!
 
-You stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game Collector, game technology enthusiast)
+You stumble upon the portfolio of Devanaboina Sai Vamshi(GamePlay Programmer, Game Collector, game technology enthusiast)
  
  ## Major Project
 
