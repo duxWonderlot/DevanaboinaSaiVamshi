@@ -4,8 +4,22 @@ You stumble upon the portfolio of Devanaboina Sai Vamshi(GamePlay Programmer, Ga
 
 ## Major Project
 
-Currenly Working on my **[Major Project](https://youtu.be/oo1xqFDnayA)**, Which is an Semi-Open World FPS Action RPG made in Unity, I have also 
+Currenly Working on my (**Rapid Prototype**)**[Major Project](https://youtu.be/oo1xqFDnayA)**, Which is an Semi-Open World FPS Action RPG made in Unity, I have also
+
+### Build a tools for designers to easy create vertical cities for the game
 <img src="img/Screenshot_259.png">
+
+### Build an Quest System Tool for designers for Interactive StoryTelling 
+<img src="img/Screenshot_267.png">
+
+### Made an Sword Combat System for Cyber Samurai Class in the Game Project Cybernet 
+<img src="img/Screenshot_263.png">
+
+### Did Animation Programming with VFX Integrated
+<img src="img/Screenshot_264.png">
+
+### Elevator Mechanic For the Game
+<img src="Screenshot (167).png">
 
 
 worked on Other Game Engines like 
@@ -46,7 +60,12 @@ I have worked on Games like:-
 -**Refugee(Junior Programmer , Asset Modeller)**
 
 
-## Some Thing Interesting
+## Interesting Mechanics for 2d parkour Game 
+ 
+ Automatic Parkour System using Raycasts in Unity
+<img src="Screenshot (61).png">
+
+### this is Interesting code blocks of the Game Spectrum 
 ```markdown
 Code that i am Proud of written in java for the game Spectrum which was inspired from a game called "Hue"
  private Body createbody1(float x , float y , float width, float height, boolean isStatic , World world){
