@@ -96,6 +96,55 @@ this is small chuck of code that was used in Spectrum Game
 
  
 ```
+level design and color change in the game 
+```markdown
+//fasinated codeblock written in java
+
+   public void Colorchange(float r , float g , float b , float a) {
+
+      // r = 0; g = 0.0f ; b = 0.0f; a = 1.0f;
+
+        rayH.setAmbientLight(r, g, b, a);
+    }
+    //this is how i level designed my game
+    
+    batch.draw(tex,1000,-280,200,200);
+        batch.draw(tex,800,-280,200,200);
+        batch.draw(tex,600,-280,200,200);
+        batch.draw(tex,0,-280,200,200);
+        batch.draw(tex,400,-280,200,200);
+        batch.draw(tex,600,-280,200,200);
+        batch.draw(tex,200,-280,200,200);
+        batch.draw(tex,-200,-280,200,200);
+        batch.draw(tex,-400,-280,200,200);
+        batch.draw(tex,-600,-280,200,200);
+        batch.draw(tex,-800,-280,200,200);
+        batch.draw(tex,-1000,-280,200,200);
+
+        //titles of the top platform
+        batch.draw(tex,1000,160,200,200);
+        batch.draw(tex,800,160,200,200);
+        batch.draw(tex,0,  160,200,200);
+        batch.draw(tex,400,160,200,200);
+        batch.draw(tex,600,160,200,200);
+        batch.draw(tex,200,160,200,200);
+        batch.draw(tex,-200,160,200,200);
+        batch.draw(tex,-400,160,200,200);
+        batch.draw(tex,-600,160,200,200);
+        batch.draw(tex,-800,160,200,200);
+        batch.draw(tex,-1000,160,200,200);
+        batch.end();
+        
+        
+    
+```
+for Optimization in the Physics Library
+```markdown
+//this is how i have destroy objects in the game
+ Obstruc.setActive(false);
+ Obstruc1.setActive(false);
+ Obstrcu2.setActive(false);
+ ```
  
 ### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
