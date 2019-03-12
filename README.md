@@ -145,6 +145,6 @@ for Optimization in the Physics Library
  Obstrcu2.setActive(false);
  ```
  
- ### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
+### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
  
