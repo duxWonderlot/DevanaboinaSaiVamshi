@@ -5,7 +5,7 @@ You stumble upon the portfolio of Devanaboina Sai Vamshi(GamePlay Programmer, Ga
 ## Major Project
 
 Currenly Working on my **[Major Project](https://youtu.be/oo1xqFDnayA)**, Which is an Semi-Open World FPS Action RPG made in Unity, I have also 
-<img src="DevanaboinaSaiVamshi/img/Screenshot_259.png"></>
+<img src="img/Screenshot_259.png">
 
 
 worked on Other Game Engines like 
