@@ -6,8 +6,8 @@ You stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game C
 
 Currenly Working on my [Major Project](https://youtu.be/oo1xqFDnayA), Which is an Semi-Open World FPS Action RPG made in Unity, I have also worked on Other Game Engines like 
 Unreal,Game Maker,RPG Maker
-
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
+
 ## FunSide Projects
 
 Made More Than 3 Unpublished Mobile Games 
@@ -17,18 +17,27 @@ Made More Than 3 Unpublished Mobile Games
 
 I have also participated in Number of Game Jams like 
 -**IGDC**
+
 -**Nasscom**
+
 -Unreal Jam
+
 -**Brackeys Game Jam and many more**
+
 -**Also worked on AR boardgame made in Unity**
+
 ## Worked on TeamProjects
 
 I have worked on Games like:-
 
 -**De-light(Gameplay Programmer)**
+
 -Getout(as asset modeller)
+
 -**Farm In Harm(Gameplay Programmer)**
+
 -**Brain's Life(GamePlay Programmer)**
+
 -Refugee(Junior Programmer , Asset Modeller)**
 
 
