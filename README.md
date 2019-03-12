@@ -1,9 +1,7 @@
 ### Hi there!
 
 you stumble upon the portfolio of Devanaboina Sai Vamshi(Game Programmer, Game Collector, game technology enthusiast)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+ 
 ## Major Project
 
 Currenly Working on my https://youtu.be/oo1xqFDnayA[Major Project], Which is an Semi-Open World FPS Action RPG made in Unity, I have also worked on Other Game Engines like Unreal,Game Maker,RPG Maker
@@ -23,10 +21,9 @@ Also worked on AR boardgame made in Unity
 I have worked on Games like De-light(Gameplay Programmer) , Getout(as asset modeller), Farm In Harm(Gameply Programmer) , Brain's Life(GamePlay Programmer) , Refugee(Junior Programmer , Asset Modeller)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## SomeThingInteresting
 ```markdown
-Code that i am Proud of written in java
+Code that i am Proud of written in java for the game Spectrum which was inspired from a game called "Hue"
  private Body createbody1(float x , float y , float width, float height, boolean isStatic , World world){
 
 
@@ -57,7 +54,7 @@ Code that i am Proud of written in java
     }
  
 ```
-
+this is small chuck of code that was used in Spectrum Game
 ```markdown
 //fasinated codeblock written in java
   public void beginContact(Contact contact) {
@@ -79,13 +76,7 @@ Code that i am Proud of written in java
 
  
 ```
+ 
+# CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-###  
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duxWonderlot/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
