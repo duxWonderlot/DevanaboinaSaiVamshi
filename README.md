@@ -36,7 +36,7 @@ I have worked on Games like:-
 
 -**Farm In Harm(Gameplay Programmer)**
 
--**Brain's Life(GamePlay Programmer)**
+-**[Brain's Life(GamePlay Programmer)]** (https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
 
@@ -145,6 +145,9 @@ for Optimization in the Physics Library
  Obstruc1.setActive(false);
  Obstrcu2.setActive(false);
  ```
+ 
+### Resume 
+[CheckoutResume](DevanaboinaSaiVamshi/D Sai Vamshi resume pdf.pdf) 
  
 ### Contact
 You can contact me from [LinkedIn](https://in.linkedin.com/in/devanaboina-sai-vamshi-218300156)
