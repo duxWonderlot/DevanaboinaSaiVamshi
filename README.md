@@ -176,6 +176,6 @@ for Optimization in the Physics Library
 ### Contact
 You can contact me from [LinkedIn](https://in.linkedin.com/in/devanaboina-sai-vamshi-218300156)
  
-### CopyRight@ 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
+### CopyRight© 2019 [duxWonderlot](https://duxwonderlot.github.io/portfolio/). All Rights Reserved.
 
  
