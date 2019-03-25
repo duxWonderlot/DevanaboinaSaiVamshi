@@ -1,4 +1,4 @@
-#Hi there!
+# Hi there!
  
 <text >You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast)
@@ -7,7 +7,7 @@
   <!-- large image -->
 <img src="img/bg.png">
 </div>
-<div class="simple_overlay" id="mies2">
+<div class="simple_overlay" id="mies1">
  hmmm.......
 </div>
 
