@@ -1,9 +1,9 @@
 # Hi there!
  
-<text >You stumble upon the portfolio of Devanaboina Sai Vamshi
-(GamePlay Programmer, Game Collector, game technology enthusiast)
- 
 <img src="img/bg.png">
+
+You stumble upon the portfolio of Devanaboina Sai Vamshi
+(GamePlay Programmer, Game Collector, game technology enthusiast)
  
 ## Major Project(Project Cybernet)
 
@@ -23,8 +23,7 @@ Currently Working on my (**Rapid Prototype**)**[Major Project](https://youtu.be/
 
 ### Elevator Mechanic For the Game
 <img src="Screenshot (167).png">
-
-
+ 
 worked on Other Game Engines like 
 Unreal,Game Maker,RPG Maker
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
@@ -65,8 +64,8 @@ I have worked on Games like:-
 
 ## Interesting Mechanics for 2d parkour Game 
  
- Automatic Parkour System using Raycasts in Unity
 <img src="Screenshot (61).png">
+ Automatic Parkour System using Raycasts in Unity
 
 ### this is Interesting code blocks of the Game Spectrum 
 ```markdown
