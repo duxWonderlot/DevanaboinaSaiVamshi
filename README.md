@@ -1,12 +1,12 @@
-#<dr><dr>Hi there!
+#Hi there!
  
 You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast)
 
-
-
+<div class="simple_overlay" id="mies1">
+  <!-- large image -->
 <img src="img/bg.png">
-
+</div>
 
 ## Major Project(Project Cybernet)
 
