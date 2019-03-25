@@ -49,7 +49,7 @@ I have also participated in Number of Game Jams like
 
 ## Worked on TeamProjects
 
-I have worked on Games like:-
+ I have worked on Games like:-
 
 -**De-light(Gameplay Programmer)**
 
