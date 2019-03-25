@@ -2,7 +2,12 @@
  
 You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast)
-<img src="DevanaboinaSaiVamshi/bg.png" height="42" width="82">
+
+
+
+<img src="DevanaboinaSaiVamshi/bg.png" height="82" width="42">
+
+
 ## Major Project(Project Cybernet)
 
 Currently Working on my (**Rapid Prototype**)**[Major Project](https://youtu.be/oo1xqFDnayA)**, Which is an Semi-Open World FPS Action RPG made in Unity, I have also
