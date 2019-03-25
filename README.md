@@ -6,10 +6,11 @@
 <div class="simple_overlay" id="mies1">
   <!-- large image -->
 <img src="img/bg.png">
-</div>
-<div class="simple_overlay" id="mies1">
+ <div class="simple_overlay" id="mies2">
  hmmm.......
 </div>
+</div>
+
 
 ## Major Project(Project Cybernet)
 
