@@ -15,7 +15,7 @@ Currently Working on my (**Rapid Prototype**)**[Major Project](https://youtu.be/
 ### Build an Quest System Tool for designers for Interactive StoryTelling 
 <img src="img/Screenshot_267.png">
 
-### Made an Sword Combat System for Cyber Samurai Class in the Game Project Cybernet 
+### Made a Sword Combat System for Cyber Samurai Class in the Game Project Cybernet 
 <img src="img/Screenshot_263.png">
 
 ### Did Animation Programming with VFX Integrated
