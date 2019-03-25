@@ -1,7 +1,6 @@
-# Hi there!
- 
 <img src="img/bg.png">
-
+# Hi there!
+  
 You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast)
  
