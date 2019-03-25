@@ -5,7 +5,7 @@ You stumble upon the portfolio of Devanaboina Sai Vamshi
 
 
 
-<img src="DevanaboinaSaiVamshi/bg.png" height="82" width="42">
+<img src="DevanaboinaSaiVamshi/img/bg.png" height="82" width="42">
 
 
 ## Major Project(Project Cybernet)
