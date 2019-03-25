@@ -1,4 +1,4 @@
-<img src="img/bg.png">
+<img src="img/bg1.png">
 # Hi there!
   
 You stumble upon the portfolio of Devanaboina Sai Vamshi
