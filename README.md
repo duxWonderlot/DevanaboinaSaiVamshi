@@ -33,7 +33,7 @@ Made More Than 3 Unpublished Mobile Games
 
 
 ## Here are Games That was published Till now for free on Itch.io [Checkout](https://bustingjam.itch.io/)
-## Here are More Games which ware taken to Game Jam [Checkout](https://cyberq.itch.io/)
+## Here are More Games which were taken to Game Jams in 2019 [Checkout](https://cyberq.itch.io/)
 ## My Technical Artist Portfolio [Checkout](https://bustingdata.wixsite.com/myportfoliobust)
 I have also participated in Number of Game Jams like 
 
