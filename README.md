@@ -2,7 +2,7 @@
 # Hi there!
   
 You stumble upon the portfolio of Devanaboina Sai Vamshi
-(GamePlay Programmer, Game Collector, game technology enthusiast)
+(GamePlay Programmer, Game Collector, game technology enthusiast,Technical Artist)
  
 ## Major Project(Project Cybernet)
 
@@ -34,6 +34,7 @@ Made More Than 3 Unpublished Mobile Games
 
 ## Here are Games That was published Till now for free on Itch.io [Checkout](https://bustingjam.itch.io/)
 ## Here are More Games which ware taken to Game Jam [Checkout](https://cyberq.itch.io/)
+## My Technical Artist Portfolio [Checkout](https://bustingdata.wixsite.com/myportfoliobust)
 I have also participated in Number of Game Jams like 
 
 -**IGDC**
