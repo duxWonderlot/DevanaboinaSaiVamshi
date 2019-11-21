@@ -73,7 +73,7 @@ Made More Than 6 Unpublished Mobile Games
 
 ## Tech Demo RTX 
 <img src="Rtx.png">
-[**Rtx_Tech_demo**](https://youtu.be/_Np7S2dD5jQ)
+[Rtx_Tech_demo](https://youtu.be/_Np7S2dD5jQ)
 
 ## Tech Demo Ecs 
 
