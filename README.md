@@ -35,8 +35,8 @@ for an French Company--> Name: Crown Hawk Studio's
                                         --> Role: Ai Programmer
 Worked for Indie Company--> Made Air Hockey AI  
                                         --> Role: Games Programmer
-Crowd Simulation 
-[**4 State AI Behaviour(Made in Unity)** ](https://youtu.be/AQYjHYnetUE)
+[**Crowd Simulation** ](https://youtu.be/AQYjHYnetUE) 
+
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
