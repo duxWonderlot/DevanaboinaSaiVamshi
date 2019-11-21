@@ -27,8 +27,11 @@ worked on Other Game Engines like
 Unreal,Game Maker,RPG Maker
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 
-### FunSide Projects
+### Final Output for Showcase
+<img src="cn.png">
+<img src="projectcn.png">
 
+### FunSide Projects
 Made More Than 6 Unpublished Mobile Games
 ## Worked(Out Sorcing) 
 # French Company
@@ -47,7 +50,9 @@ Made More Than 6 Unpublished Mobile Games
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
-
+### Tech Demo
+[**Rtx_Tech_demo**](https://youtu.be/_Np7S2dD5jQ)
+[**Ecs_Tech_demo**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 ## Interesting Mechanics for 2d parkour Game 
  
 <img src="Screenshot (61).png">
