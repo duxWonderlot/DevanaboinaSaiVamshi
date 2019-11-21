@@ -30,10 +30,10 @@ Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 ### FunSide Projects
 
 Made More Than 6 Unpublished Mobile Games
-## Worked(OutSorcing) 
+## Worked(Out Sorcing) 
 # French Company
-   Crown Hawk Studio
-    Role: Ai Programmer
+   Made Air Hockey AI  
+    Role: Games Programmer
 # Worked for Indie Company
    Made Air Hockey AI  
     Role: Games Programmer
