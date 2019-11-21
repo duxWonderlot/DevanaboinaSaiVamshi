@@ -32,11 +32,11 @@ Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 Made More Than 6 Unpublished Mobile Games
 ## Worked(OutSorcing) 
 # French Company
-   -Crown Hawk Studio's
-    -Role: Ai Programmer
+   Crown Hawk Studio
+    Role: Ai Programmer
 # Worked for Indie Company
-   -Made Air Hockey AI  
-    -Role: Games Programmer
+   Made Air Hockey AI  
+    Role: Games Programmer
   
 ## Ai Showcase
 [-**Crowd Simulation** ](https://youtu.be/AQYjHYnetUE) 
