@@ -36,7 +36,7 @@ for an French Company--> Name: Crown Hawk Studio's
 Worked for Indie Company--> Made Air Hockey AI  
                                         --> Role: Games Programmer
 ## Ai Showcase
-[**Crowd Simulation** ](https://youtu.be/AQYjHYnetUE) 
+[-**Crowd Simulation** ](https://youtu.be/AQYjHYnetUE) 
 
 ## 3D-Platformer 
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
