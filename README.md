@@ -38,10 +38,10 @@ Made More Than 6 Unpublished Mobile Games
    Made Air Hockey AI  
     Role: Games Programmer
   
-## Ai Showcase
+**Ai Showcase**
 [-**Crowd Simulation** ](https://youtu.be/AQYjHYnetUE) 
 
-## 3D-Platformer 
+**3D-Platformer** 
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
