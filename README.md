@@ -1,5 +1,5 @@
 <img src="img/bg1.png">
-### Hi there!
+## Hi there!
   
 You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast,Technical Artist)
