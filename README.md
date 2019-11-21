@@ -61,9 +61,11 @@ Made More Than 6 Unpublished Mobile Games
 
 [-**WarOfTheLastSamurai(GMTK 2019)**](https://cyberq.itch.io/warofthelastsamurai)
 
+<img src="frc_1.png">
+
 [-**FillTheVoidInSpace(GamesPlusJams Game Jam)**](https://cyberq.itch.io/fillthevoid-arcade)
 
-[-**DeLight(GMTK 2018 , Level Designer, GamePlay Programmer)**](https://suryavamsikk.itch.io/de-light) **Many More Jams.......**
+[-**DeLight(GMTK 2018 , Level Designer, GamePlay Programmer)**](https://suryavamsikk.itch.io/de-light) [**Many More Jams.......**](https://cyberq.itch.io/)
 
 ## Tech Demo RTX 
 
