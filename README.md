@@ -65,7 +65,11 @@ Made More Than 6 Unpublished Mobile Games
 
 [-**FillTheVoidInSpace(GamesPlusJams Game Jam)**](https://cyberq.itch.io/fillthevoid-arcade)
 
-[-**DeLight(GMTK 2018 , Level Designer, GamePlay Programmer)**](https://suryavamsikk.itch.io/de-light) [**Many More Jams.......**](https://cyberq.itch.io/)
+[-**DeLight(GMTK 2018 , Level Designer, GamePlay Programmer)**](https://suryavamsikk.itch.io/de-light)
+
+## Many More Jams.......
+
+[**Click Here**](https://cyberq.itch.io/)
 
 ## Tech Demo RTX 
 
