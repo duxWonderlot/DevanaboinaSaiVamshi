@@ -48,8 +48,18 @@ Made More Than 6 Unpublished Mobile Games
 
 **3D-Platformer** 
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
+## Game Jams Participated 
+
+**Farm in Harm (Nasscom Game Jam 2016) UI Programmer **
+
+-**GetOut NGDC 2017(Asset Modeller)**
 
 -**Refugee(Junior Programmer , Asset Modeller)**
+
+[-**WarOfTheLastSamurai(GMTK 2019)**](https://cyberq.itch.io/warofthelastsamurai)
+
+[-**DeLight(GMTK 2018 , Level Designer, GamePlay Programmer)**](https://suryavamsikk.itch.io/de-light)
+
 ## Tech Demo RTX 
 [**Rtx_Tech_demo**](https://youtu.be/_Np7S2dD5jQ)
 ## Tech Demo Ecs 
