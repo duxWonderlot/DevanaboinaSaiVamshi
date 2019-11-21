@@ -34,6 +34,8 @@ Made More Than 6 Unpublished Mobile Games
 # French Company
    Task: Different Types of AI's for a Cyberpunk Game  
     Role: AI Programmer
+<img src="frc.png">
+<img src="frc_1.png">
 # Worked for Indie Company
    Made Air Hockey AI  
     Role: Games Programmer
