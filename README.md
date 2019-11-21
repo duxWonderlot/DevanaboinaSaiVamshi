@@ -28,9 +28,12 @@ Unreal,Game Maker,RPG Maker
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 
 ### Final Output for Showcase
+
+[-**Game_Trailer**](https://youtu.be/7CapVknboG8)
 <img src="cn.png">
 <img src="projectcn.png">
-[-**Game Trailer**](https://youtu.be/7CapVknboG8)
+
+
 ### FunSide Projects
 Made More Than 6 Unpublished Mobile Games
 ## Worked(Out Sorcing) 
