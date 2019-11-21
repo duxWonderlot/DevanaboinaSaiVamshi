@@ -1,5 +1,5 @@
 <img src="img/bg1.png">
-## Hi there!
+# Hi there!
   
 You stumble upon the portfolio of Devanaboina Sai Vamshi
 (GamePlay Programmer, Game Collector, game technology enthusiast,Technical Artist)
@@ -53,7 +53,7 @@ Made More Than 6 Unpublished Mobile Games
 ## Tech Demo RTX 
 [**Rtx_Tech_demo**](https://youtu.be/_Np7S2dD5jQ)
 ## Tech Demo Ecs 
-[**Ecs_Tech_demo**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
+[**Ecs_Tech_demo**](https://cyberq.itch.io/ecs-experience)
 ## Interesting Mechanics for 2d parkour Game 
  
 <img src="Screenshot (61).png">
