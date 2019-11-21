@@ -32,8 +32,8 @@ Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 Made More Than 6 Unpublished Mobile Games
 ## Worked(Out Sorcing) 
 # French Company
-   Made Air Hockey AI  
-    Role: Games Programmer
+   Task: Different Types of AI's for a Cyberpunk Game  
+    Role: AI Programmer
 # Worked for Indie Company
    Made Air Hockey AI  
     Role: Games Programmer
