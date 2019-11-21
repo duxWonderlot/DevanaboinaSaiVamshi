@@ -27,37 +27,16 @@ worked on Other Game Engines like
 Unreal,Game Maker,RPG Maker
 Worked on Libraries like LibGDX, Box2D, OpenGL, WebGL
 
-## FunSide Projects
+### FunSide Projects
 
-Made More Than 3 Unpublished Mobile Games
-
-
-## Here are Games That was published Till now for free on Itch.io [Checkout](https://bustingjam.itch.io/)
-## Here are More Games which were taken to Game Jams in 2019 [Checkout](https://cyberq.itch.io/)
-## My Technical Artist Portfolio [Checkout](https://bustingdata.wixsite.com/myportfoliobust)
-I have also participated in Number of Game Jams like 
-
--**IGDC**
-
--**Nasscom**
-
--Unreal Jam
-
-
--**Brackeys Game Jam and many more**
-
--**Also worked on AR boardgame made in Unity**
-
-## Worked on TeamProjects
-
- I have worked on Games like:-
-
--**De-light(Gameplay Programmer)**
-
--Getout(as asset modeller)
-
--**Farm In Harm(Gameplay Programmer)**
-
+Made More Than 6 Unpublished Mobile Games
+## Worked(OutSorcing) 
+for an French Company--> Name: Crown Hawk Studio's
+                                        --> Role: Ai Programmer
+Worked for Indie Company--> Made Air Hockey AI  
+                                        --> Role: Games Programmer
+Crowd Simulation 
+[**4 State AI Behaviour(Made in Unity)** ](https://youtu.be/AQYjHYnetUE)
 [-**Brain's Life(GamePlay Programmer)**](https://www.youtube.com/watch?v=9DbjPjFcU34&t=3s)
 
 -**Refugee(Junior Programmer , Asset Modeller)**
